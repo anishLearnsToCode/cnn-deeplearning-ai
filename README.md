@@ -27,7 +27,7 @@ on Coursera. This is the fourth course.
 - [__Programming Assignment__ - Residual Networks](week_2/resnets/Residual_Networks_v2a.ipynb)
 
 ## Week 3
-- [__Quiz__ - Detection Algorithms]()
+- [__Quiz__ - Detection Algorithms](week_3/quiz-detection-algorithms/quiz-detection-algo.md)
 - [__Programming Assignment__ - Car Detection with YOLO]()
 
 ## Week 4
