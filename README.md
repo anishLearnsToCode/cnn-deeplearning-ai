@@ -23,7 +23,8 @@ on Coursera. This is the fourth course.
 
 ## Week 2
 - [__Quiz__ - Deep Convolutional Models](week_2/deep-cnn-quiz/deep-cnn-quiz.md)
-- [__Programming Assignment__ - Residual Networks]()
+- [__Keras Tutorial (Ungraded)__](week_2/keras-tutorial/Keras_Tutorial_v2a.ipynb)
+- [__Programming Assignment__ - Residual Networks](week_2/resnets/Residual_Networks_v2a.ipynb)
 
 ## Week 3
 - [__Quiz__ - Detection Algorithms]()
