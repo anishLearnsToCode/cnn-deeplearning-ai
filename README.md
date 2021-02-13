@@ -22,7 +22,7 @@ on Coursera. This is the fourth course.
 - [__Programming Assignment__ - Convolutional Model: Application](week_1/cnn-models-step-by-step/Convolution_model_Application_v1a.ipynb)
 
 ## Week 2
-- [__Quiz__ - Deep Convolutional Models]()
+- [__Quiz__ - Deep Convolutional Models](week_2/deep-cnn-quiz/deep-cnn-quiz.md)
 - [__Programming Assignment__ - Residual Networks]()
 
 ## Week 3
