@@ -32,8 +32,8 @@ on Coursera. This is the fourth course.
 
 ## Week 4
 - [__Quiz__ - Special Applications: Face Recognition & Neural Style Transfer](week_4/quiz-special-applications-face-recog-neural-style-transfer/quiz.md)
-- [__Programming Assignment__ - Art Generation With Neural Style Transfer](week_4)
-- [__Programming Assignment__ - Face Recognition](week_4)
+- [__Programming Assignment__ - Art Generation With Neural Style Transfer](week_4/neural-style-transfer/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
+- [__Programming Assignment__ - Face Recognition](week_4/face-recognition/Face_Recognition_v3a.ipynb)
 
-## 🎓 [Certificate](https://coursera.org/verify/WLLHPCZSRZ2Y)
+## 🎓 [Certificate](https://coursera.org/verify/KN92M6VXUXYA)
 ![certificate](assets/certificate.png)
