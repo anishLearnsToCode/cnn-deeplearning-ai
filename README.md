@@ -28,12 +28,12 @@ on Coursera. This is the fourth course.
 
 ## Week 3
 - [__Quiz__ - Detection Algorithms](week_3/quiz-detection-algorithms/quiz-detection-algo.md)
-- [__Programming Assignment__ - Car Detection with YOLO]()
+- [__Programming Assignment__ - Car Detection with YOLO](week_3/car-detection-autonomous-driving/Autonomous_driving_application_Car_detection_v3a.ipynb)
 
 ## Week 4
-- [__Quiz__ - Special Applications: Face Recognition & Neural Style Transfer]()
-- [__Programming Assignment__ - Art Generation With Neural Style Transfer]()
-- [__Programming Assignment__ - Face Recognition]()
+- [__Quiz__ - Special Applications: Face Recognition & Neural Style Transfer](week_4/quiz-special-applications-face-recog-neural-style-transfer/quiz.md)
+- [__Programming Assignment__ - Art Generation With Neural Style Transfer](week_4)
+- [__Programming Assignment__ - Face Recognition](week_4)
 
 ## 🎓 [Certificate](https://coursera.org/verify/WLLHPCZSRZ2Y)
 ![certificate](assets/certificate.png)
