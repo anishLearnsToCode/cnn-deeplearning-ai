@@ -36,4 +36,4 @@ on Coursera. This is the fourth course.
 - [__Programming Assignment__ - Face Recognition](week_4/face-recognition/Face_Recognition_v3a.ipynb)
 
 ## 🎓 [Certificate](https://coursera.org/verify/KN92M6VXUXYA)
-![certificate](assets/certificate.png)
+![certificate](assets/certificate.svg)
